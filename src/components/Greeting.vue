@@ -15,9 +15,8 @@ import { ref } from "vue";
 
 <style scoped>
 #name {
-    border: 1px solid black;
     margin-top: 100px;
-    padding: 10px;
+    position: fixed;
 }
 
 @keyframes moving {
