@@ -10,7 +10,7 @@
 
 <style scoped>
 #header {
-    background-color: #ffa4f3;
+    background-color: rgb(57 , 57 , 57);
     color: white;
     text-align: center;
     width: 100%;
